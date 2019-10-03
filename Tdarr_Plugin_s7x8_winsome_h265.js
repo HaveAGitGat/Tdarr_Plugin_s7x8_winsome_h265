@@ -10,7 +10,7 @@ function details() {
     Description: `This plugin transcodes all videos to h265. If the English language track is not in AC3,EAC3 or DTS then an AC3 track is added.\n\n
 `,
     Version: "1.00",
-    Link: "https://github.com/HaveAGitGat/Tdarr_Plugin_hk75_Drawmonster_MP4_AAC_No_Subs_No_metaTitle"
+    Link: "https://github.com/HaveAGitGat/Tdarr_Plugin_s7x8_winsome_h265"
   }
 
 }
